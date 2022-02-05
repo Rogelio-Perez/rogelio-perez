@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rogelio</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer+from+M%C3%A9xico)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate frontend developer from México</h3>
 
 <p align="left"> <a href="https://twitter.com/rogerdimonte" target="blank"><img src="https://img.shields.io/twitter/follow/rogerdimonte?logo=twitter&style=for-the-badge" alt="rogerdimonte" /></a> </p>
@@ -26,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rogelio-perez&show_icons=true&locale=en&layout=compact" alt="rogelio-perez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rogelio-perez&show_icons=true&locale=en" alt="rogelio-perez" /></p>
-
