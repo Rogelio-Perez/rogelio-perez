@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rogelio</h1>
+# Hi 👋, I'm Rogelio
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer+from+M%C3%A9xico)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋, I'm Rogelio</h1>
 
 <p align="left"> <a href="https://twitter.com/rogerdimonte" target="blank"><img src="https://img.shields.io/twitter/follow/rogerdimonte?logo=twitter&style=for-the-badge" alt="rogerdimonte" /></a> </p>
 
