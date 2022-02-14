@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rogelio</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer+from+M%C3%A9xico)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer+from+M%C3%A9xico)]
 
 <p align="left"> <a href="https://twitter.com/rogerdimonte" target="blank"><img src="https://img.shields.io/twitter/follow/rogerdimonte?logo=twitter&style=for-the-badge" alt="rogerdimonte" /></a> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **htlm, css, javascript, react, next, express, python, flask, mysql**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Next, Express, Python, Flask, MySQL**
 
 - 📫 How to reach me **perezmenarogelio@gmail.com**
 
