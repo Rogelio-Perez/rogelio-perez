@@ -21,7 +21,7 @@
 <a href="https://instagram.com/rogerdimonte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rogerdimonte" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"> :fire: Streak stats</h3>
+<h3 align="center"> :fire: Streak stats</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rogelio-perez&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
